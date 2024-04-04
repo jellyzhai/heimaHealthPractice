@@ -1,0 +1,11 @@
+{
+  "app": {
+    "bundleName": "com.example.heimaHealth",
+    "vendor": "example",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+//    手机的设置中应用管理中的应用图标和名称
+    "icon": "$media:app_icon",
+    "label": "$string:app_name"
+  }
+}
